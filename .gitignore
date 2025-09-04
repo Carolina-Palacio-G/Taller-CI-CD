@@ -2,3 +2,8 @@ node_modulesnode_modules/
 coverage/
 .env
 dist/
+NUL
+node_modules/
+coverage/
+dist/
+.env
